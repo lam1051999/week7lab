@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "744407971855",
+    "firebase_url": "https://i-sylph-285515.firebaseio.com",
+    "project_id": "i-sylph-285515",
+    "storage_bucket": "i-sylph-285515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744407971855:android:ce5f8c359fe956c0430b7a",
+        "android_client_info": {
+          "package_name": "com.week7lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744407971855-ec12fc8eplcl5ol7knt3fi5iqjiu82k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.week7lab",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "744407971855-n8vujv542ci1jlo3iq90po3jin761afv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjgJjc0a0i9-DHlwSkIjyaZp8z_teTzC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744407971855-n8vujv542ci1jlo3iq90po3jin761afv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
